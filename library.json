@@ -1,6 +1,6 @@
 {
   "name": "MPU6050",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A \"ESP32_MPU6050\" program is a computer program that outputs \"MPU6050\" (or some variant) on a display device",
   "keywords": "planet, happiness, people",
   "repository":
